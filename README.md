@@ -1,5 +1,12 @@
 # CS420 Content-Aware Video Summarization
 
+## 👥 Group Members  
+
+- Hồng Phúc Hải  
+- Nguyễn Văn Giáp   
+
+---
+
 ## Introduction
 
 Video summarization aims to generate a short synopsis that captures the most informative and important parts of a video. This can be achieved in two main ways:
